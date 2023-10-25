@@ -1,0 +1,8 @@
+@import "./base/reset.css";
+@import "./base/variaveis.css";
+@import "./layout/header.css";
+@import "./layout/rodape.css";
+@import "./module/movie.css";
+@import "./layout/categoria.css";
+@import "./module/card.css";
+@import "/css/atropos.css";
